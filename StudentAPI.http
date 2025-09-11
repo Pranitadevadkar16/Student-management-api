@@ -1,0 +1,34 @@
+@StudentAPI_HostAddress = http://localhost:5159
+
+###
+GET http://localhost:5159/api/Students
+Accept: application/json
+
+### Get a student by ID
+GET {{StudentAPI_HostAddress}}/Students/1
+Accept: application/json
+
+### Add a new student
+POST {{StudentAPI_HostAddress}}/Students
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Jane Doe",
+  "age": 22,
+  "department": "Information Technology"
+}
+
+### Update an existing student
+PUT {{StudentAPI_HostAddress}}/Students/2
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Jane Doe Updated",
+  "age": 23,
+  "department": "Computer Science"
+}
+
+### Delete a student
+DELETE {{StudentAPI_HostAddress}}/Students/2

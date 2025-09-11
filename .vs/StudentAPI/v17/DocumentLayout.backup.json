@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\psdev\\documents\\dotnet\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\psdev\\documents\\dotnet\\studentapi\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\psdev\\documents\\dotnet\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\psdev\\documents\\dotnet\\studentapi\\studentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:studentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|c:\\users\\psdev\\documents\\dotnet\\studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentAPI.csproj|solutionrelative:studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "students.cs",
+              "DocumentMoniker": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\Models\\students.cs",
+              "RelativeDocumentMoniker": "Models\\students.cs",
+              "ToolTip": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\Models\\students.cs",
+              "RelativeToolTip": "Models\\students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:09:34.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:03:42.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:03:33.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentAPI.http",
+              "DocumentMoniker": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\StudentAPI.http",
+              "RelativeDocumentMoniker": "StudentAPI.http",
+              "ToolTip": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\StudentAPI.http",
+              "RelativeToolTip": "StudentAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-25T10:03:12.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\StudentAPI.csproj",
+              "RelativeDocumentMoniker": "StudentAPI.csproj",
+              "ToolTip": "C:\\Users\\psdev\\Documents\\dotnet\\StudentAPI\\StudentAPI.csproj",
+              "RelativeToolTip": "StudentAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T07:38:34.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
