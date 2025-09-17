@@ -163,3 +163,4 @@ C:\Users\psdev\Documents\dotnet\StudentAPI\obj\Debug\net9.0\ref\StudentAPI.dll
 C:\Users\psdev\Documents\dotnet\StudentAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\psdev\Documents\dotnet\StudentAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\psdev\Documents\dotnet\StudentAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\psdev\Documents\dotnet\StudentAPI\obj\Debug\net9.0\StudentAPI.sourcelink.json
